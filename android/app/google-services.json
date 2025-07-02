@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "447130951352",
+    "project_id": "soolmate-b61a4",
+    "storage_bucket": "soolmate-b61a4.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:447130951352:android:ef6898bf9d85eeda40de4d",
+        "android_client_info": {
+          "package_name": "com.craftech.soolmate"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "447130951352-g7tl06jv4kb2pv9gmnr46km56k83n2h8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.craftech.soolmate",
+            "certificate_hash": "41a277a49ee83f31fe4da7953158d7345af34583"
+          }
+        },
+        {
+          "client_id": "447130951352-jbprnv6a80i08i8ahtgicj3cnciqakat.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRNL6hjtsM10lPboGR6rS_9oySH8kjIjE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "447130951352-jbprnv6a80i08i8ahtgicj3cnciqakat.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "447130951352-a12jt4bpob7sr3loui4s7i4nf1tarcup.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.craftechdigital.app.orangeUi"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

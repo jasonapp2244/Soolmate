@@ -1,0 +1,1 @@
+C:\flutter project\soolmate\android\app\build\intermediates\cxx\RelWithDebInfo\6q6a51ln\obj\armeabi-v7a

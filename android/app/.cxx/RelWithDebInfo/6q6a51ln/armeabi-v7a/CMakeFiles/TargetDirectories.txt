@@ -1,0 +1,2 @@
+C:/flutter project/soolmate/android/app/.cxx/RelWithDebInfo/6q6a51ln/armeabi-v7a/CMakeFiles/edit_cache.dir
+C:/flutter project/soolmate/android/app/.cxx/RelWithDebInfo/6q6a51ln/armeabi-v7a/CMakeFiles/rebuild_cache.dir
